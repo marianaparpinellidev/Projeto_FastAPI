@@ -1,2 +1,3 @@
 # Aula FastAPI
 ## GET
+## POST
