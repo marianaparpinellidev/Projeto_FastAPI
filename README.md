@@ -1,1 +1,2 @@
 # Aula FastAPI
+## GET
